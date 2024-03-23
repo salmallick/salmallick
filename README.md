@@ -18,7 +18,7 @@ I am a Student at Wayne State University studying Computer Science.
 
 - :telescope: I’m working as a Software Development Intern and contributing to maintaining and developing IOS applications.
 
-- :seedling: Exploring Frotend and Backend work using C++ and Python.
+- :seedling: Exploring Frontend and Backend work using C++ and Python.
 
 - :zap: In my free time, I like to play soccer ⚽, basketball 🏀, and listening to music 🎵.
 
