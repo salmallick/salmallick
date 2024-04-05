@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/salmanmallick" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://salmansresume.tiiny.site" style="text-decoration: none;">
+    <a href="https://salmallick.tiiny.site" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/View%20Resume-228B22?style=for-the-badge"/>
     </a>
   </div>
