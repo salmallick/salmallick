@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/salmanmallick" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://salmallick.tiiny.site" style="text-decoration: none;">
+    <a href="salresume.tiiny.site" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/View%20Resume-228B22?style=for-the-badge"/>
     </a>
   </div>
@@ -16,7 +16,7 @@
 Hello!
 I am a Student at Wayne State University studying Computer Science.
 
-- :telescope: I’m working as a Software Development Intern and contributing to maintaining and developing IOS applications.
+- :telescope: I worked as a Software Development Intern, contributing to maintaining and developing IOS applications. Now I am focusing on doing Self Projects
 
 - :seedling: Exploring Frontend and Backend work using C++ and Python.
 
