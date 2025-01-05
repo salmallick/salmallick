@@ -14,11 +14,11 @@
 
 ### :man_technologist: About Me :
 Hello!
-I am a Student at Wayne State University studying Computer Science.
+I am a Student at the University of Michigan studying Data Science.
 
 - :telescope: I worked as a Software Development Intern, contributing to maintaining and developing IOS applications. Now I am focusing on doing Self Projects
 
-- :seedling: Exploring Frontend and Backend work using C++ and Python.
+- :seedling: Exploring Frontend and Backend work using C++ and Python, and React.
 
 - :zap: In my free time, I like to play soccer ⚽, basketball 🏀, and listening to music 🎵.
 
